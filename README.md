@@ -13,7 +13,7 @@ The end goal is to have a mobile friendly website for Hospo360.
 Angular 2
 https://angular.io/
 
-Requirements: TypeScript transpiler, Ionic 2
+Requirements: TypeScript transpiler, Node.js
 
 ## TODO
 
