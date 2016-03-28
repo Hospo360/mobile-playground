@@ -6,8 +6,8 @@ The end goal is to have a mobile friendly website for Hospo360.
 ## Technologies
 - Typescript
 - Angular 2
-- Ionic 2 for the wesite framework: http://ionicframework.com/docs/v2/
-- Authentication with Auth0: https://auth0.com/
+- Ionic 2 for the website framework: http://ionicframework.com/docs/v2/
+- Authentication using Auth0: https://auth0.com/
 
 ### Front end framework
 Angular 2
