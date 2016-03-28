@@ -9,7 +9,8 @@ Angular 2
 Ionic 2 for the wesite framework: http://ionicframework.com/docs/v2/
 Authentication with Auth0: https://auth0.com/
 
-### Front end framework. Angular 2.
+### Front end framework
+Angular 2
 https://angular.io/
 
 Requirements: TypeScript transpiler, Ionic 2
